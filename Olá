@@ -1,3 +1,10 @@
 <h1>Ola Goodwallers! este é meu primeiro código.</h1>
 <p>Estou aprendendo a programar no GitHub Codespaces!</p>
 <a href="https://goodwall.io">Clique aqui para ver meu perfil no Goodwall</a>
+<style>
+  body {
+    background-color: #007bff; /* Um azul vibrante */
+    color: white;             /* Deixa o texto branco para facilitar a leitura */
+    font-family: sans-serif;  /* Deixa a letra mais moderna */
+  }
+</style>
